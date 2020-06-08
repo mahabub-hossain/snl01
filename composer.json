@@ -8,6 +8,11 @@
             "name": "mahabub-hossain",
             "email": "mahbubsprint310@gmail.com"
         }
-    ],
+    ],"autoload": {
+    "psr-4": {
+        "SNL\\": "src/"
+    }
+},
+
     "require": {}
 }
