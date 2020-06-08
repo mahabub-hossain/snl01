@@ -1,6 +1,6 @@
 {
-    "name": "bjit/snl01",
-    "description": "This project is for facebook authentication",
+    "name": "mahabub-mollah/snlapi",
+    "description": "Sns authentication with facebook",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,12 +9,5 @@
             "email": "mahbubsprint310@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "SNL\\": "src/"
-        }
-    },
-    "require": {
-        "guzzlehttp/guzzle": "~6.0"
-    }
+    "require": {}
 }
